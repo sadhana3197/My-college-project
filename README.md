@@ -18,11 +18,6 @@ The Bookstore Management System is a web-based application designed to help book
 >Database: MySQL, Hibernate (JPA)
 >Tools: Spring Tool Suite (STS), Git, GitHub
 
-⚙️ Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/bookstore-management-system.git
 
 📖 About
 A Bookstore Management System is a software application that helps bookstores efficiently manage books, inventory, sales, and customer records. It streamlines bookstore operations by maintaining accurate book data, reducing manual errors, and improving inventory tracking and sales management.
