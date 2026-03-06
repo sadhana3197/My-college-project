@@ -5,10 +5,15 @@ The Bookstore Management System is a web-based application designed to help book
 
 🚀 Features
 >Add, edit, and delete book records
+
 >Track book stock and availability
->Search and filter books by title, author, or category
+
+>Search and filter books by title, author, or categor
+
 >Manage customer purchases and sales
+
 >Generate sales and inventory reports
+
 >Maintain records of book details such as price, author, and quantity
 
 🛠️ Technologies Used
